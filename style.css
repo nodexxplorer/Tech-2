@@ -134,7 +134,7 @@ ol:hover a{
       opacity: 1;
       border: 1px solid #adadad;
     }
-
+    
     .search-icon {
       font-size: 20px;
       color: #333;
@@ -147,7 +147,6 @@ ol:hover a{
     }
     .slideshow {
       position: relative;
-      /* overflow-x: hidden; */
       height: 68vh;
       padding: 50px 0 0px 40px;
       font-size: 60px;
