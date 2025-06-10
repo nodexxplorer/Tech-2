@@ -162,7 +162,7 @@ ol:hover a{
     }
     @keyframes mee{
     0%{
-      background: url(/images/pics.jpg);
+      background: url(images/pics.jpg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -170,7 +170,7 @@ ol:hover a{
       background-blend-mode: multiply;
     }
     25%{
-      background: url(/images/pic2.jpg);
+      background: url(images/pic2.jpg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -178,7 +178,7 @@ ol:hover a{
       background-blend-mode: multiply;
     }
     50%{
-      background: url(/images/Educational\ Technology\ Photos\ -\ Download\ Free\ High-Quality\ Pictures\ _\ Freepik.jpeg);
+      background: url(images/Educational\ Technology\ Photos\ -\ Download\ Free\ High-Quality\ Pictures\ _\ Freepik.jpeg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -186,7 +186,7 @@ ol:hover a{
       background-blend-mode: multiply;
     }
     100%{
-      background: url(/images/pica.jpeg);
+      background: url(images/pica.jpeg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -252,7 +252,7 @@ ol:hover a{
       font-size: 30px;
     }
     .head{
-      background: url(/images/pics3.jpg);
+      background: url(images/pics3.jpg);
       height: 55vh;
       padding-top: 20pc;
       margin-left: 12%;
