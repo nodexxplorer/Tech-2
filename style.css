@@ -414,6 +414,7 @@ ol:hover a{
     .h2{
       font-size: 35px;
       text-decoration: underline 3px;
+      font-weight: 700;
     }
     .pi{
       /* margin-top: 70px; */
@@ -674,7 +675,7 @@ header{
   width: fit-content;
   display: flex;
   gap: 1rem;
-  animation: loop 7s linear infinite;
+  animation: loop 9s linear infinite;
 }
 .tag{
   display: flex;
@@ -747,7 +748,7 @@ header{
   /* justify-content: center; */
   background-color: rgba(47, 47, 49, 0.664);
   height: 47vh;
-  min-width: 130px;
+  min-width: 150px;
   box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.466);
   z-index: 1;
   margin-left: -24px;
