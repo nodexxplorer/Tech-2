@@ -251,7 +251,7 @@ ol:hover a{
       background-color: #444;
       color: #fff;
       padding-bottom: 50px;
-      font-size: 20px;
+      font-size: 12px;
     }
     .head{
       background: url(images/pics3.jpg);
@@ -294,7 +294,7 @@ ol:hover a{
       }
     }
     p{
-      font-size: 16px;
+      font-size: 12px;
       font-weight: 540;
       text-align: center;
     }
@@ -383,7 +383,7 @@ ol:hover a{
       width: 76%;
       margin-left: 28px;
       padding: 20px;
-      top: 100px;
+      top: 60px;
       border-radius: 28px 0 28px 0;
     }
     .go{  
@@ -403,12 +403,12 @@ ol:hover a{
       width: 76%;
       margin-left: 28px;
       padding: 20px;
-      top: 100px;
+      top: 60px;
       border-radius: 28px 0 28px 0;
     }
     em{
       font-style: normal;
-      font-size: 13px;
+      font-size: 12px;
       font-weight: 600;
     }
     .check{
