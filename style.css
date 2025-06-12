@@ -94,6 +94,8 @@ ol:hover a{
   padding: 6px;
   border-radius: 20px;
   color: rgb(0, 0, 0);
+  transform: scale(1.05);
+
 }
 .fa-solid{
   font-size: 15px;
@@ -471,8 +473,7 @@ ol:hover a{
     .reviews{
       margin: 40px 0 40px 0;
       /* margin-left: 150px; */
-      width: 44%;
-      
+      width: 60%;
       font-family: system-ui, 'Helvetica Neue';
       position: relative;
       overflow: hidden;
@@ -498,7 +499,7 @@ ol:hover a{
         0 0.1rem 0.2rem rgb(61, 59, 59),
         0 0.1rem 0.5rem rgb(61, 59, 59),
         0 0.2rem 1.5rem rgb(61, 59, 59);
-    }
+    } 
     .review{
       height: 40vh;
       width: 39vh;
