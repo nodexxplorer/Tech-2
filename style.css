@@ -167,7 +167,7 @@ ol:hover a{
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      background-color: #0000005e;
+      background-color: #0000004b;
       background-blend-mode: multiply;
     }
     25%{
@@ -175,7 +175,7 @@ ol:hover a{
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      background-color: #0000005e;
+      background-color: #00000042;
       background-blend-mode: multiply;
     }
     50%{
@@ -183,7 +183,7 @@ ol:hover a{
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      background-color: #00000060;
+      background-color: #0000004d;
       background-blend-mode: multiply;
     }
     100%{
@@ -191,7 +191,7 @@ ol:hover a{
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      background-color: #0000005e;
+      background-color: #0000004b;
       background-blend-mode: multiply;
     }
   }
@@ -240,8 +240,9 @@ ol:hover a{
     h2{
       text-align: center;
       margin-top: -4px;
-      padding-top: 100px;
-      font-size: 40px;
+      padding-top: 30px;
+      padding-bottom: 20px;
+      font-size: 30px;
       background-color: #444;
       color: #fff;
     }
@@ -250,7 +251,7 @@ ol:hover a{
       background-color: #444;
       color: #fff;
       padding-bottom: 50px;
-      font-size: 30px;
+      font-size: 20px;
     }
     .head{
       background: url(images/pics3.jpg);
@@ -293,7 +294,8 @@ ol:hover a{
       }
     }
     p{
-      font-size: 23px;
+      font-size: 16px;
+      font-weight: 540;
       text-align: center;
     }
     
@@ -381,7 +383,7 @@ ol:hover a{
       width: 76%;
       margin-left: 28px;
       padding: 20px;
-      top: 150px;
+      top: 100px;
       border-radius: 28px 0 28px 0;
     }
     .go{  
@@ -401,11 +403,13 @@ ol:hover a{
       width: 76%;
       margin-left: 28px;
       padding: 20px;
-      top: 150px;
+      top: 100px;
       border-radius: 28px 0 28px 0;
     }
     em{
       font-style: normal;
+      font-size: 13px;
+      font-weight: 600;
     }
     .check{
       background-color: #fff;
@@ -599,8 +603,11 @@ ol:hover a{
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-    padding: 20px 20px 40px 20px;
+    padding: 20px 20px 0 20px ;
     background-color: #000;
+    color: white;
+   }
+   .soc1 a{
     color: white;
    }
    .foot2{
